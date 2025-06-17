@@ -1,0 +1,6 @@
+D:\UNETI\TVT_Camera\5. SDK-API\SDK\Windows\64 bit\DevSdkByCS_win64_20230314\NetSdk\Windows\bin_release\Debug_vcx_x64\DevSdkByCS.dll
+D:\UNETI\TVT_Camera\5. SDK-API\SDK\Windows\64 bit\DevSdkByCS_win64_20230314\NetSdk\Windows\bin_release\Debug_vcx_x64\DevSdkByCS.pdb
+D:\UNETI\TVT_Camera\5. SDK-API\SDK\Windows\64 bit\DevSdkByCS_win64_20230314\NetSdk\Windows\c# wrapper\DevSdkByCSharp\DevSdkByCS\obj\x64\Debug\DevSdkByCS.csproj.CoreCompileInputs.cache
+D:\UNETI\TVT_Camera\5. SDK-API\SDK\Windows\64 bit\DevSdkByCS_win64_20230314\NetSdk\Windows\c# wrapper\DevSdkByCSharp\DevSdkByCS\obj\x64\Debug\DevSdkByCS.dll
+D:\UNETI\TVT_Camera\5. SDK-API\SDK\Windows\64 bit\DevSdkByCS_win64_20230314\NetSdk\Windows\c# wrapper\DevSdkByCSharp\DevSdkByCS\obj\x64\Debug\DevSdkByCS.pdb
+D:\UNETI\TVT_Camera\5. SDK-API\SDK\Windows\64 bit\DevSdkByCS_win64_20230314\NetSdk\Windows\c# wrapper\DevSdkByCSharp\DevSdkByCS\obj\x64\Debug\DevSdkByCS.csproj.AssemblyReference.cache
